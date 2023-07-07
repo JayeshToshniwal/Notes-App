@@ -140,9 +140,20 @@ input:placeholder-shown{
     color: #fff;
 }
 footer{
+   height: 100px;
    width: 100%;
+   margin: 0px;
    text-align: center;
-   font-size: 1.5rem;
+   font-size: 30px;
    position: fixed;
-   bottom: 10px;
+   padding-top: 25px;
+   padding-bottom: 25px;
+   bottom: 0px;
+   background-color:  rgb(241, 241, 43);
+}
+.linkedin-id{
+    color: #a68e06;
+}
+.linkedin-id:hover{
+    color:#0a66c2;
 }
